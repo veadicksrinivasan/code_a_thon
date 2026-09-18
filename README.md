@@ -1,6 +1,6 @@
 # Intelligent Traffic Management System
 
-A Java 21 desktop simulation that dynamically manages a four-way intersection using traffic density, waiting time and emergency priority.
+A Java 21 desktop simulation that dynamically manages a four-way intersection using traffic density, waiting time and emergency priority. The Swing dashboard includes an intersection visualisation, live queue cards, manual override controls and an automatic controller.
 
 ## Features
 
@@ -11,6 +11,8 @@ A Java 21 desktop simulation that dynamically manages a four-way intersection us
 - Automatic signal cycling
 - Emergency vehicle priority and automatic return to normal control
 - Simulated live traffic updates
+- Auto/manual controller controls and manual road override
+- Visual intersection with simulated queues (aggregate counts, not individual vehicle physics)
 - Clean Java/Swing architecture
 
 ## Run
